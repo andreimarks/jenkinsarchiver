@@ -8,3 +8,4 @@ Partially written to archive build data to analyze performance and history of bu
 # TODO
 * Structure like a big boy module.
 * Output to sane data format (i.e. a real database)
+* Convert relevant parts to Groovy.
